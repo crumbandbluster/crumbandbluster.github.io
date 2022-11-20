@@ -1,0 +1,10 @@
+nav ul, footer ul {
+    list-style: none;
+}
+nav ul li, footer ul li{
+    display: inline;
+}
+footer {
+    color: #999
+    font-size: .8em;
+}
