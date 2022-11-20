@@ -7,7 +7,7 @@ nav ul li, footer ul li{
 nav ul li a{
     color: #999;
 }
-.subtitle {
+.subtitle .meta {
     color: #999;
     font-size: .8em;
     font-style: italic;
