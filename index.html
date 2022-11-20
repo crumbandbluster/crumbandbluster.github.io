@@ -5,4 +5,9 @@ title: Crumb and Bluster
 <div class="blurb">
     <h1>Crumb and Bluster</h1>
     <div class="subtitle">a little blog.</div>
+    {% for post in site.posts limit: 5 %}
+        <h3><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></h3>
+        <em style="color:#999">{{ post.date | date_to_string}}</em>
+        {{ post.excerpt }}
+    {% end %}
 </div><!-- /.blurb -->
