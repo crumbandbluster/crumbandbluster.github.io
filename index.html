@@ -9,5 +9,5 @@ title: Crumb and Bluster
         <h3><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></h3>
         <em style="color:#999">{{ post.date | date_to_string}}</em>
         {{ post.excerpt }}
-    {% end %}
+    {% endfor %}
 </div><!-- /.blurb -->
