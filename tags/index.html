@@ -6,7 +6,13 @@ title: tags
     <ul>
     {% for tag in site.tags %}
         <li>{{ tag | first }}:
-            {{{{ site.tags["{{ tag | first }}"]}}.title}}
+            <ul>
+                {% for post in site.posts %}
+                    {% if post.tags contains tag %}
+                        <li>{{ post.title }}</li>
+                    {% endif %}
+                {% endfor %}
+            </ul>
         </li>
     {% endfor %}
     </ul>
