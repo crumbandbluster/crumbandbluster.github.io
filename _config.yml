@@ -1,2 +1,4 @@
 name: Crumb and Bluster
 markdown: kramdown
+plugins:
+    - jekyll-feed
