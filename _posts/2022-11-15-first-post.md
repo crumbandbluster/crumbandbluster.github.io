@@ -1,6 +1,9 @@
 ---
 layout: post
 title: "Crumb and Bluster"
+tags:
+    - test
+    - about
 ---
 
 Crumb and Bluster is my little blog.  It will probably mostly be about music, something I'm very unqualified to talk about.

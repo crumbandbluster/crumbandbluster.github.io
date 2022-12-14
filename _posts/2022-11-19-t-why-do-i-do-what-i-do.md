@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "about the blog, or: why do i do what i do?"
+tags:
+    - about
 ---
 
 I started this blog for a variety or reasons which I won't really get into because they aren't that interesting.
