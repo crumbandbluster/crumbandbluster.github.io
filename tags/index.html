@@ -3,7 +3,10 @@ layout: default
 title: tags
 ---
     <h1>{{ page.title }}</h1>
+    <ul>
     {% for tag in site.tags %}
-        name: {{ tag | first }},
-        count: {{ tag | last | size }}
+        <li>{{ tag | first }}:
+            {{ site.tags["{{ tag | first }}]}}
+        </li>
     {% endfor %}
+    </ul>
