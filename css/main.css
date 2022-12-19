@@ -4,6 +4,7 @@ nav ul, footer ul {
 body {
     margin: 20px auto;
     width: 90%;
+    max-width: 45em;
 }
 nav ul li, footer ul li{
     display: inline;
@@ -24,4 +25,8 @@ footer {
 figcaption {
     color: #999;
     font-size: .8em;
+}
+.post {
+    font-size: 1.1em;
+    line-height: 1.5;
 }
