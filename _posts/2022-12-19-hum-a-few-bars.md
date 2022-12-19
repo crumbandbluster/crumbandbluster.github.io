@@ -1,7 +1,7 @@
 ---
 layout: post
 title: hum a few bars...(Benjamin Clementine - By the Ports of Europe)
-tags: about, Benjamin Clementine, singer-songwriter, 2017, british, Richard Harris, Rufus Wainwright
+tags: about "Benjamin Clementine" singer-songwriter, 2017, british, "Richard Harris", "Rufus Wainwright"
 ---
 
 I'm in the slightly awkward position of wanting to write about music but not knowing how.  First and foremost, I completely lack the vocabulary.  The solution is pretty obvious, I need to *read* about music, probably something that I should have done before I even started this endeavor.  I'll try to do that more regularly, and if you have any suggestions of music publications, send them my way.
